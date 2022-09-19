@@ -5,10 +5,10 @@ Upload the smiller folder to keycloak themes folder, select smiller theme for lo
 #Screen captures:
 
 #Login page:
-![alt text](https://github.com/bigsteve/keycloak-login-theme/b…sources/screen-capture/signin-screen.jpg?raw=true
+![Keycloak Login screen theme](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/signin-screen.jpg?raw=true
 
 #Register page:
-![alt text](https://github.com/bigsteve/keycloak-login-theme/b…sources/screen-capture/register-screen.jpg?raw=true
+![alt text](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/register-screen.jpg?raw=true
 
 #Forgot Password page:
-![alt text](https://github.com/bigsteve/keycloak-login-theme/b…sources/screen-capture/forgot-password-screen.jpg?raw=true
+![alt text](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/forgot-password-screen.jpg?raw=true
