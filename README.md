@@ -1,17 +1,17 @@
 # Login Theme for Keycloak
-Installation:
+##Installation:
 Upload the smiller folder to keycloak themes folder, select smiller theme for login section and clear keycloak cache
 
-#Screen captures:
+##Screen captures:
 
-#Login page:
+###Login page:
 
 ![Keycloak Login screen theme](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/signin-screen.jpg?raw=true)
 
-#Register page:
+###Register page:
 
-![alt text](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/register-screen.jpg?raw=true)
+![Keycloak register screen theme](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/register-screen.jpg?raw=true)
 
-#Forgot Password page:
+###Forgot Password page:
 
-![alt text](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/forgot-password-screen.jpg?raw=true)
+![Keycloak forgot password screen theme](https://github.com/bigsteve/keycloak-login-theme/blob/main/smiller/login/resources/screen-capture/forgot-password-screen.jpg?raw=true)
