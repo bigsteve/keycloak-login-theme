@@ -1,9 +1,10 @@
 # Login Theme for Keycloak
 
 ## Installation:
-Upload the smiller folder to keycloak/themes folder
-From keycloak administration portal go to the Realm Settings > Themes and select the smiller theme as Login Theme
-Clear keycloak cache if not disabled for development
+
+* Upload the smiller folder to keycloak/themes folder
+* From keycloak administration portal go to the Realm Settings > Themes and select the smiller theme as Login Theme
+* Clear keycloak cache if not disabled for development
 
 ## Screen captures:
 
